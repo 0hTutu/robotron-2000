@@ -13,4 +13,4 @@ function manipulaDados(operacao, controle) {
     } else { 
         peca.value = parseInt(braco.value) + 1
     }
-};
+}; 
