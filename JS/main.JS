@@ -14,14 +14,3 @@ function manipulaDados(operacao, controle) {
         peca.value = parseInt(braco.value) + 1
     }
 };
-
-/*
-const subtrair = document.querySelector("#subtrair")
-const somar = document.querySelector("#somar")
-const braco = document.querySelector("#braco")
-
-somar.addEventListener("click", () => (manipulaDados("somar"))
-
-subtrair.addEventListener("click", () => (manipulaDados("subtrair"))
-}) 
-*/
